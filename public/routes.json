@@ -1,0 +1,16 @@
+{
+  "/full1": "index.html",
+  "/about": "about/index.html",
+  "/spaces": "spaces/index.html",
+  "/guide": "guide/index.html",
+  "/pickup": "pickup/index.html",
+  "/location": "location/index.html",
+  "/faq": "faq/index.html",
+  "/blog": "blog/index.html",
+  "/blog/first-visit": "blog/first-visit/index.html",
+  "/blog/gangnam-evening": "blog/gangnam-evening/index.html",
+  "/blog/evening-plan": "blog/evening-plan/index.html",
+  "/blog/pickup-checklist": "blog/pickup-checklist/index.html",
+  "/blog/group-gathering": "blog/group-gathering/index.html",
+  "/blog/price-check": "blog/price-check/index.html"
+}
